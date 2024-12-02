@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="Icon.ico"width="30px"><br>OwO Auto Level Bot</h1>
+    <h1><img src="Readmeicon.png"width="30px"><br>OwO Auto Level Bot</h1>
     <h3>A usefull tool to gain lootboxes etc when afk</h3>
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.11-bluesvg)](https://www.python.org/download/releases/3.0/)
