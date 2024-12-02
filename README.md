@@ -1,6 +1,6 @@
 <div align="center">
-    <h1><img src="Icon.ico"width="30px"><br>Snake Gaem</h1>
-    <h3>OwO Auto Level Bot</h3>
+    <h1><img src="Icon.ico"width="30px"><br>OwO Auto Level Bot</h1>
+    <h3>A usefull tool to gain lootboxes etc when afk</h3>
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.11-bluesvg)](https://www.python.org/download/releases/3.0/)
 [![GitHub license](https://img.shields.io/badge/license-GPL%202.0-green)](./LICENSE)
