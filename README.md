@@ -12,7 +12,7 @@
 ## How do you run the project?
 1. Make sure you installed Python (Important)
 2. Simply [Launch](Setup.bat)!
-3. Run SnakeGaem.exe
+3. Run main.exe
 
 You Don't Need Your Own Discord Token For This :)
 
